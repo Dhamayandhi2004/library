@@ -1,0 +1,15 @@
+.fav-button, .order-button {
+    margin-top: 10px;
+    padding: 8px 16px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .fav-button {
+    background-color: #ffcccb;
+  }
+  
+  .order-button {
+    background-color: #cce5ff;
+  }
+  
